@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho como suporte ao usuário.
-- 🌱 Estudante de Ciência da Computação.
+- 🎓 Estudante de Ciência da Computação.
 - 💥 Estudando Front-End.
 <div>
   <a href="https://github.com/alujohn">
