@@ -1,7 +1,7 @@
 ## Olá! Eu sou Alujohn.
 - 🔭 Hoje trabalho como suporte ao usuário.
 - 🎓 Estudante de Ciência da Computação.
-- 💥 Estudando Front-End.
+- 💥 Estudando Frontend.
 <div>
   <a href="https://github.com/alujohn">
   <img height="167em" src="https://github-readme-stats.vercel.app/api?username=alujohn&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
