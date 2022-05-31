@@ -1,6 +1,6 @@
 ## Olá! Eu sou Alujohn.
-- 🔭 Hoje trabalho como suporte ao usuário.
-- 🎓 Estudante de Ciência da Computação.
+- 🔭 Hoje trabalho como Chefe de Informática - SIAC.
+- 🎓 Estudante de Ciência da Computação - UNIFAP.
 - 💥 Estudando Frontend.
 <div>
   <a href="https://github.com/alujohn">
