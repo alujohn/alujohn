@@ -1,11 +1,11 @@
 ## Olá! Eu sou Alujohn.
-- 🔭 Hoje trabalho como Chefe de Informática - SIAC.
 - 🎓 Estudante de Ciência da Computação - UNIFAP.
-- 💥 Estudando Frontend.
-<div>
+<div align="center">
   <a href="https://github.com/alujohn">
-  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=alujohn&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alujohn&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alujohn&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+  </a>  
+  <a href="https://github.com/alujohn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alujohn&theme=react&line_height=70&hide=css"/>
 </div>
   
 <div style="display: inline_block"><br>
